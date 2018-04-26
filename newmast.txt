@@ -1,0 +1,7 @@
+100 Alan Jones 375.31
+300 
+300 Mary Smith 89.30
+500 
+500 Sam Sharp 0.00
+700 
+700 Suzy Green -14.22
